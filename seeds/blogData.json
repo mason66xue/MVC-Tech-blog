@@ -1,0 +1,18 @@
+[
+    {
+      "name": "JAVA",
+      "content": "Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible."
+      
+    },
+    {
+      "name": "Python",
+      "content": " Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation. Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured, object-oriented and functional!"
+      
+    },
+    {
+      "name": "SQL",
+      "content": "Structured Query Language, abbreviated as SQL, is a domain-specific language used in programming and designed for managing data held in a relational database management system, or for stream processing in a relational data stream management system"
+    
+    }
+  ]
+  
