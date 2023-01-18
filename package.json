@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/mason66xue/MVC-Tech-blog/issues"
   },
-  "homepage": "https://github.com/mason66xue/MVC-Tech-blog#readme"
+  "homepage": "https://github.com/mason66xue/MVC-Tech-blog#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
